@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A simple, lightweight logging library for node application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul-00/logger.git"
+  },
+  "keywords": [
+    "log",
+    "node"
+  ],
+  "author": "gokul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokul-00/logger/issues"
+  },
+  "homepage": "https://github.com/gokul-00/logger#readme"
+}
