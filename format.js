@@ -1,5 +1,5 @@
-const format = (type, str) => {
-	return `[${type.toUpperCase()} - ${Date.now()}] ${str}`;
+const format = (type, str, sec) => {
+	return `[${type.toUpperCase()} - ${sec}] ${str}`;
 };
 
 module.exports = format;
