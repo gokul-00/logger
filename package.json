@@ -1,5 +1,5 @@
 {
-	"name": "node-logger",
+	"name": "@gocool00/node-logger",
 	"version": "1.0.0",
 	"description": "A simple, lightweight logging library for node application.",
 	"main": "index.js",
